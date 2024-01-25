@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\theja\\Desktop\\Git\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj": {}
+    "C:\\Users\\josh\\Git\\cSharpAcademy\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj": {}
   },
   "projects": {
-    "C:\\Users\\theja\\Desktop\\Git\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj": {
+    "C:\\Users\\josh\\Git\\cSharpAcademy\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\theja\\Desktop\\Git\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj",
+        "projectUniqueName": "C:\\Users\\josh\\Git\\cSharpAcademy\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj",
         "projectName": "persistentTestingArea",
-        "projectPath": "C:\\Users\\theja\\Desktop\\Git\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj",
-        "packagesPath": "C:\\Users\\theja\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\theja\\Desktop\\Git\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\obj\\",
+        "projectPath": "C:\\Users\\josh\\Git\\cSharpAcademy\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj",
+        "packagesPath": "C:\\Users\\josh\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\josh\\Git\\cSharpAcademy\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\theja\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\josh\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
