@@ -1,0 +1,39 @@
+.Net Libraries
+
+A class is basically a container for methods
+ - For example the system.console class contains the method .WriteLine()
+ - Math is a class with a number of different methods such as math.Random()
+ - Data types are also present in classes in the .NET Class Library
+
+Calling from a class library involves these steps
+ - Typing the class name - "Console"
+ - Member access operator - "."
+ - Method name - "WriteLine
+ - Method invocation operator - "()"
+ - Specify arguments - ("string argument")
+
+Stateful VS Stateless methods
+ - State is a condition of the execution environment at a specific moment in time
+ - Stateless methods do not rely on data or variables stored in memory
+    - Console.WriteLine() does not rely on any pre existing data 
+    - Random.Next() requires data stored in memory or they modify the state of data as an instance.
+      .Next requires an instance of Random to exist
+    - This instance is called an object
+
+Objects / Instances
+ - To create an object or an instance, you use the 'new' operator
+    - This creates a new object with a memory address for information to be stored
+
+Return Values
+ - Some methods end their function without returning anything. These are called void methods
+ - You can return the value with or without storing it in a variable
+    - int roll = dice.Next() vs Console.Writeline(dice.Next())
+
+Input Parameters 
+ - Information consumed by the method is called a parameter
+    - .Next(1, 7) the 1 and 7 are parameters required by the method
+
+Overloaded Methods
+ - An overloaded method is defined with multiple method signatures
+    - Console.Writeline() accepts 19 different types of data. Int, Str, zero, etc
+

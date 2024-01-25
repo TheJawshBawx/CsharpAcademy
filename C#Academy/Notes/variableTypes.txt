@@ -10,4 +10,3 @@ decimal        28-29 digits
 
 Double is used bt default if no literal suffix is used.
 
-

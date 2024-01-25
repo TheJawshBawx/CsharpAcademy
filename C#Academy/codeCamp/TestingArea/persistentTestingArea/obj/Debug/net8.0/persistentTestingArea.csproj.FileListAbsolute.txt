@@ -1,0 +1,15 @@
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\bin\Debug\net8.0\persistentTestingArea.exe
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\bin\Debug\net8.0\persistentTestingArea.deps.json
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\bin\Debug\net8.0\persistentTestingArea.runtimeconfig.json
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\bin\Debug\net8.0\persistentTestingArea.dll
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\bin\Debug\net8.0\persistentTestingArea.pdb
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\obj\Debug\net8.0\persistentTestingArea.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\obj\Debug\net8.0\persistentTestingArea.AssemblyInfoInputs.cache
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\obj\Debug\net8.0\persistentTestingArea.AssemblyInfo.cs
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\obj\Debug\net8.0\persistentTestingArea.csproj.CoreCompileInputs.cache
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\obj\Debug\net8.0\persistentTestingArea.sourcelink.json
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\obj\Debug\net8.0\persistentTestingArea.dll
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\obj\Debug\net8.0\refint\persistentTestingArea.dll
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\obj\Debug\net8.0\persistentTestingArea.pdb
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\obj\Debug\net8.0\persistentTestingArea.genruntimeconfig.cache
+C:\Users\theja\Desktop\Git\CsharpAcademy\C#Academy\codeCamp\TestingArea\persistentTestingArea\obj\Debug\net8.0\ref\persistentTestingArea.dll
