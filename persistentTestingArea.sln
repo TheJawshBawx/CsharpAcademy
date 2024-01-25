@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "C#Academy", "C#Academy", "{AE62741C-78B5-4A64-BE96-1999BB438C28}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "codeCamp", "codeCamp", "{D2F06DAC-27B7-464D-A4EB-4F60E5E9A90E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "TestingArea", "TestingArea", "{31F82DD0-2CC4-4379-B812-B7496DA2CB61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "persistentTestingArea", "C#Academy\codeCamp\TestingArea\persistentTestingArea\persistentTestingArea.csproj", "{FA437FA7-0CB3-478E-80F4-873B717330CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FA437FA7-0CB3-478E-80F4-873B717330CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FA437FA7-0CB3-478E-80F4-873B717330CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FA437FA7-0CB3-478E-80F4-873B717330CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FA437FA7-0CB3-478E-80F4-873B717330CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{D2F06DAC-27B7-464D-A4EB-4F60E5E9A90E} = {AE62741C-78B5-4A64-BE96-1999BB438C28}
+		{31F82DD0-2CC4-4379-B812-B7496DA2CB61} = {D2F06DAC-27B7-464D-A4EB-4F60E5E9A90E}
+		{FA437FA7-0CB3-478E-80F4-873B717330CA} = {31F82DD0-2CC4-4379-B812-B7496DA2CB61}
+	EndGlobalSection
+EndGlobal
