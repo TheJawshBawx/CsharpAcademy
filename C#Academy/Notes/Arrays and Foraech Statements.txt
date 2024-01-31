@@ -1,0 +1,18 @@
+Arrays
+
+- C# arrays allow you to store sequences of values in a single data structure
+- They are declared using the variable type followed by [] to indicate an array
+- Once you have a single variable that stores all the values, you can sort the values, reverse the order of the values, loop through each value and inspect it individually
+- Arrays can be used to store multiple values of the same type in a single variable
+- Arrays require an instance
+
+- The data type attributed when the instance is declared must match the data type assigned
+      string[] fraudulentOrderIDs = new string[3];
+      fraudulentOrderIDs[0] = "A123";
+      fraudulentOrderIDs[1] = "B456";
+      fraudulentOrderIDs[2] = "C789";
+
+Foreach Statement
+- The foreach statement provides a simple, clean way to iterate through the elements of an array
+- The foreach statement processes array elements in increasing index order, starting with index 0 and ending with index Length - 1
+- It uses a temporary variable to hold the value of the array element associated with the current iteration
