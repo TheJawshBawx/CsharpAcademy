@@ -3,7 +3,8 @@
     "editor.quickSuggestions": {
       "other": false,      // or "off"
       "comments": false,   // or "off"
-      "strings": false     // or "off"
+      "strings": false,     // or "off"
+      "editor.highlighting: false"
     }
   }
 }

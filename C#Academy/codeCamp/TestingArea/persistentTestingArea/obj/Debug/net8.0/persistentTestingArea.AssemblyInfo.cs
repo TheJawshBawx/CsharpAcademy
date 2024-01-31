@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("persistentTestingArea")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9115075f5526a3b0b02585b199c5d6fd9ee1ab33")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0ff0319aa8fd622fb1599039de2f236439624493")]
 [assembly: System.Reflection.AssemblyProductAttribute("persistentTestingArea")]
 [assembly: System.Reflection.AssemblyTitleAttribute("persistentTestingArea")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\josh\\.nuget\\packages\\": {}
+    "C:\\Users\\Person297640-B\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\josh\\Git\\cSharpAcademy\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj",
+      "projectUniqueName": "C:\\Users\\Person297640-B\\Desktop\\Git\\C#\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj",
       "projectName": "persistentTestingArea",
-      "projectPath": "C:\\Users\\josh\\Git\\cSharpAcademy\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj",
-      "packagesPath": "C:\\Users\\josh\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\josh\\Git\\cSharpAcademy\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\obj\\",
+      "projectPath": "C:\\Users\\Person297640-B\\Desktop\\Git\\C#\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\persistentTestingArea.csproj",
+      "packagesPath": "C:\\Users\\Person297640-B\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Person297640-B\\Desktop\\Git\\C#\\CsharpAcademy\\C#Academy\\codeCamp\\TestingArea\\persistentTestingArea\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\josh\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\Person297640-B\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
